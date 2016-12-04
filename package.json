@@ -1,0 +1,29 @@
+{
+  "name": "Response Fetcher",
+  "version": "0.2.0",
+  "author": "arun rajora",
+  "description": "fetch chat bot response",
+  "contributors": [
+    {
+      "name": "arun rajora",
+      "email": "rajora.rajora2@gmail.com"
+    }
+  ],
+  "main": "./server.js",
+  "keywords": [
+    "azure",
+    "boilerplate",
+    "express"
+  ],
+  "dependencies": {
+     "express": "~3.1.0",
+    "firebase": "^3.5.2",
+    "jade": "*",
+    "request": "^2.76.0"
+  },
+  "noAnalyze": true,
+  "license": "Apache",
+  "engines": {
+    "node": "~0.10.0 || ~4.2.0"
+  }
+}
